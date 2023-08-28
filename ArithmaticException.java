@@ -21,7 +21,9 @@ public class ArithmaticException {
 			System.out.println("Exception handling");
 		}
 		System.out.println("rest of the code");
-
+System.out.println("hi");
+	}
+	
 	}
 
-}
+
